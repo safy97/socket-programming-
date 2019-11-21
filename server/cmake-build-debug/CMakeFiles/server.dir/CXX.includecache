@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mostafa/CLionProjects/server/ProcessRequest.cpp
+stdio.h
+-
+sys/socket.h
+-
+unistd.h
+-
+cstring
+-
+iostream
+-
+fstream
+-
+vector
+-
+mutex
+-
+cmath
+-
+

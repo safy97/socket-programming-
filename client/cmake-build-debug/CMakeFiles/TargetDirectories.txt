@@ -1,0 +1,3 @@
+/home/mostafa/CLionProjects/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mostafa/CLionProjects/client/cmake-build-debug/CMakeFiles/untitled.dir
+/home/mostafa/CLionProjects/client/cmake-build-debug/CMakeFiles/edit_cache.dir
